@@ -1,4 +1,7 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["magic_force/mf17", "ezxmora"],
+        ["kprepublic/bm60hsrgb/rev2", "ezxmora"]
+    ]
 }
